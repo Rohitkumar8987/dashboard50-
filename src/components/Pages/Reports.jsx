@@ -59,7 +59,7 @@ export default function Reports() {
         </div>
       </div>
      
-      <div className=""  style={{width:"100vw", background:"#E2E8F0"}} >
+      <div className=""  style={{ background:"#E2E8F0"}} >
       <Table dataSource={data}   rowSelection={{}} style={{display:"flex",height:"90vh",width:"100%"}}/>
       </div>
     </>
